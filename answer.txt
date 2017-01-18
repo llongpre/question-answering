@@ -1,0 +1,1160 @@
+89 13 nil
+89 44 nil
+89 13 American
+89 30 American South
+89 13 nil
+90 54 David
+90 2 Paper Clip,0115
+90 2 Langaker Johan Per Vaaler
+90 6 Dickson
+90 2 Langanker
+91 35 Miss Lucia
+91 80 German
+91 35 Juliet
+91 25 New Ballet American York City
+91 80 Rubensian
+92 7 Beck Clapton Hendrix Page
+92 13 Rickenbacker Adolph
+92 13 Rickenbacker Adolph
+92 62 Lyle Thunder Lovett Kentucky
+92 62 Billy Sewell Foster Keith Joe
+93 96 Lama Dalai
+93 11 Lama Dalai
+93 76 Matt Miller Gorbachev Mikhail Fail Soviets
+93 13 Lama Dalai
+93 13 Xiaoping Deng Gandhi Rajiv
+94 37 Chris Anthony Murphy Erik Sanchez
+94 37 Jim Martinez Murphy
+94 25 nil
+94 90 Edgar
+94 58 Edgar
+95 8 Phoumsavan Lao PDR Daily Nouhak Receives Report Keating Paul
+95 15 Paul Keating
+95 3 Somsavat Phetsanghan Bouason Osakan Seun Lengsavat Thongsavat Khamphoui Boupphavan Thammatheva
+95 15 Paul Keating
+95 79 Paul Keating
+96 40 nil
+96 2 Baptist Coretta Auburn Scott Church Ebenezer
+96 2 Casandra Dennis Randolph Scott Ulysees
+96 40 Coretta Scott
+96 17 James
+97 3 Cairns Tom
+97 5 Brian Coleman Foster Keith Mason
+97 2 Warpus
+97 1 Warpus
+97 1 Lentz Friedman Brian Cruz Jacek Warpus Santa
+98 26 Yugoslav
+98 82 nil
+98 68 nil
+98 82 Croatian
+98 36 Montenegro-Herzegovina Herzegovina
+99 86 Anne Williams
+99 46 Island Wreck Off Turkish
+99 86 Nikos Kazantzakis
+99 86 Sullivan Paul Thomas Tillich Aquinas
+99 86 Albert Physicist Einstein
+100 24 Ukrainian
+100 58 Europe Romania
+100 8 Hungarian English
+100 1 Island Zitny
+100 8 Hungarian
+101 15 Canada
+101 17 Color Carnivores California
+101 1 HEALTH
+101 15 American Canadian
+101 15 Canada Canadian
+102 73 Rozsa Norbert
+102 18 Matt Biondi Nationals
+102 73 Moorhouse Nick Adrian
+102 51 Ballatore Oppel
+102 18 Summer Sanders
+103 0 nil
+103 0 nil
+103 0 nil
+103 0 nil
+103 0 nil
+104 5 Petain Marshal
+104 2 Philippe Petain Marshal Hitler
+104 3 nil
+104 25 Le Jews Chambon
+104 2 Grosser Alfred
+105 14 Bruch
+105 75 Roosevelt
+105 46 Sony Corp. Masaru
+105 32 Hudson Valley
+105 46 Takayanagi Zworykin K. Vladimir
+106 11 Lindbergh
+106 60 Bush Force Air
+106 6 Whitehead Gordeuk
+106 7 Dunbar Lawrence House Park Hawthorne Wright Orville Hill Carillon Paul
+106 7 Hawk Kitty
+107 4 Hawk Kitty
+107 1 Fighter Airborne Contract Tactical Gets Advanced
+107 1 Ferguson
+107 3 Delayed
+107 2 Gordeuk
+108 9 Homer City Imperial Manager Bludau Beach
+108 27 Donald Murphy P. Woodstock
+108 27 Diego Wynn San Brown Alessio John
+108 9 Herron Smith Mary Henry
+108 37 Francisco Vasquez Searching Mark Trail Clues Scholars
+109 2 Remains Hospitalized Improved
+109 1 Say
+109 3 Talks Politics
+109 1 nil
+109 5 Talks Politics Tests Undergoes
+110 88 Carter
+110 45 Angeles Los
+110 36 Being
+110 45 Baerwald
+110 88 Madison
+111 5 Abner Graves
+111 4 Costescu Cocut
+111 6 Tennessee
+111 5 Clark
+111 5 Cooperstown
+112 8 EU JAPAN GERMANY
+112 22 nil
+112 93 Calif.
+112 5 Photo
+112 8 U.S. Northrop Hampstead
+113 1 S. Brother DAVID
+113 3 Holien History Pickett Kim Military
+113 1 Holien History Pickett Kim Military
+113 30 PMs Wed
+113 6 S. DAVID
+114 2 Nobles Queens
+114 17 Fresno West Laney Shasta Delta Sierra
+114 17 West Los Foothill Medanos Porterville
+114 1 Nobles Queens
+114 2 Queens
+115 19 Aztecs Mexico
+115 4 United Holland France States Sweden Germany Panajachel
+115 4 Guatemala American Mexico
+115 18 Aztecs Mexico
+115 64 Egypt
+116 0 nil
+116 0 nil
+116 0 nil
+116 0 nil
+116 0 nil
+117 3 Haines
+117 1 Dorothy Public Library
+117 9 Cottage Dove
+117 1 Picture Manuela Hoelterhoff
+117 2 nil
+118 4 Charger Dan Coach Henning Ilesic
+118 24 Aritmos
+118 24 Duerden John H.
+118 24 Reebok
+118 22 Andy
+119 3 Cayce Plateau
+119 4 Cayce Plateau
+119 4 Hawass
+119 22 nil
+119 3 Hawass
+120 38 Alto Massachusetts Palo San
+120 19 Maine
+120 19 Harbor Pemaquid Cutler
+120 38 Alto FINANCE ANIMAL OCEAN Palo WOMEN
+120 38 Alto Palo
+121 0 nil
+121 0 nil
+121 0 nil
+121 0 nil
+121 0 nil
+122 1 nil
+122 5 Mr. Hale
+122 1 Cold Winter Predicts Snowy
+122 2 Hypnotizing Muskie Lobsters
+122 4 nil
+123 13 Christ
+123 89 England
+123 13 Lynn
+123 9 Indian Baudhayan
+123 59 Arts
+124 86 nil
+124 84 Julius
+124 99 Julius Decimus Brutus
+124 92 Pacino Julius Al Festival Martin Public Sheen
+124 92 nil
+125 43 Maurice
+125 57 Casagemas
+125 43 Olga Paul Kokhlova
+125 43 nil
+125 66 Aphrodite
+126 87 Guajira
+126 17 Brazilian
+126 17 Yapacana Ventuari Indians Park
+126 98 Huerta
+126 42 Mina Mexican
+127 74 Australian
+127 31 Australian
+127 3 Australia Western
+127 79 Australia
+127 79 Australia Americans
+128 63 Marineau
+128 29 Fuji
+128 63 Mr. Tindall Lawrence
+128 98 Joichi
+128 19 George Wallace Nixon
+129 2 Hasbro
+129 9 nil
+129 1 Alfred Butts
+129 9 Myths Russell Family Classic William Learning Aloud F.
+129 40 Movie
+130 64 nil
+130 64 Pelat
+130 35 Marten Courier Leaman Express Trucking Chemical Freight Circle Freymiller Transport
+130 35 Apple Microsoft
+130 6 Mr. Pezim Corona
+131 0 nil
+131 0 nil
+131 0 nil
+131 0 nil
+131 0 nil
+132 25 Media TEXAS Dallas
+132 10 Chicago
+132 17 Media
+132 10 West Coast
+132 18 Media
+133 0 nil
+133 0 nil
+133 0 nil
+133 0 nil
+133 0 nil
+134 9 Mickey Tourist Turns Minnie Xabiso Mouse George
+134 9 Kingdom Mickey Mouse Magic Visits
+134 81 nil
+134 81 Trevor Nobel
+134 19 nil
+135 0 nil
+135 0 nil
+135 0 nil
+135 0 nil
+135 0 nil
+136 0 nil
+136 0 nil
+136 0 nil
+136 0 nil
+136 0 nil
+137 9 nil
+137 28 Rand McNally
+137 33 Hidden Ettore DiVito
+137 33 Book College Wheaton
+137 28 Ranch Porter
+138 20 II Elizabeth
+138 39 Queen Elizabeth
+138 39 Tsutsumi Yoshiaki
+138 4 Tsutsumi Yoshiaki
+138 4 Railway Forbes Group Seibu
+139 15 Carson
+139 15 Carson Art Detroit Ford William Lion Wayne Clay Fontes Bud
+139 1 Carson Bud
+139 1 Carson Coach Bud
+139 1 Carson Bud
+140 80 Tash Zakariya Fouad Isami Shibli
+140 12 Mohammed
+140 10 nil
+140 1 Maqbool
+140 10 Mohammed
+141 9 Texas
+141 10 Chicago
+141 7 Chicago
+141 4 Chicago
+141 1 Chicago
+142 58 American
+142 27 Circus
+142 27 Parish
+142 90 America
+142 90 Television
+143 14 Stone Oliver Reiner Rob Met Harry Woody Sally Allen
+143 1 McGillis Sam Ford Reviews Depardieu Harrison Gerard Kelly Hollywood Card
+143 24 Nigel Andrews
+143 24 Irvin Cinema Fearless Joesph Brian Vilsmaier Stalingrad Gilbert John Widow
+143 4 Green Card
+144 5 nil
+144 4 Resort Ranch Cody
+144 48 Owens
+144 5 nil
+144 5 G. Cody
+145 32 Malacca Thailand Malaysia
+145 55 Sonning
+145 6 Bridge Thai Pepsi
+145 69 Tagus Lisbon Sacavem
+145 69 Europe Britain Portugal Lisbon
+146 34 Jose San Golden Boston Common Gate
+146 34 Jose San James
+146 49 Mould Olmsted Frederick Jacob Law Wrey
+146 49 Recreation
+146 34 Douglas James Square Jack Plaza
+147 62 Repap
+147 68 Paper Scott
+147 50 Seen Paper Pulp Association
+147 45 Canada Freeman Industry Paper Alan
+147 68 Pulp
+148 40 Obstetricians
+148 80 Angeles Los Bridled Times
+148 66 U.S.
+148 80 nil
+148 40 U.S. Agana
+149 9 nil
+149 4 American Wallace
+149 25 American
+149 25 nil
+149 23 nil
+150 1 Europe Netherlands Dutch
+150 12 nil
+150 22 European
+150 22 Romanian English
+150 2 German Germany European
+151 0 nil
+151 0 nil
+151 0 nil
+151 0 nil
+151 0 nil
+152 29 Sir Thomas More
+152 84 Bernay
+152 79 John
+152 79 Sir Robert Walpole
+152 91 Edward
+153 21 Third Straight List Source Year Billionaires
+153 31 Home Edition
+153 1 Queen Elizabeth
+153 20 Third Straight List Richest Year Billionaires
+153 1 Tsutsumi Yoshiaki
+154 0 nil
+154 0 nil
+154 0 nil
+154 0 nil
+154 0 nil
+155 0 nil
+155 0 nil
+155 0 nil
+155 0 nil
+155 0 nil
+156 0 nil
+156 0 nil
+156 0 nil
+156 0 nil
+156 0 nil
+157 30 Lincoln James Washington Naismith Abraham George
+157 15 Earl Set Cole Porter Warren
+157 14 Newlin
+157 1 James Frederick C. Klein Naismith
+157 5 Holmes Taylor
+158 3 Pikes Peak
+158 6 nil
+158 5 nil
+158 4 Lewis Clark Montgomery
+158 4 nil
+159 87 Bivings
+159 41 Uneasy Mother
+159 96 T. George Franklin
+159 21 Woodbury
+159 96 Finney Lynne
+160 4 Allen Temple
+160 23 Poems Classics Vintage
+160 23 nil
+160 4 nil
+160 4 Baptist Theater Calvin Nativity Simmons Black Church Allen Temple
+161 52 Haller
+161 52 Haller
+161 79 Kohl
+161 48 Major John
+161 48 Europe
+162 9 Cheops Rawash Abu Djedefre
+162 19 Pepy
+162 24 Zoser
+162 24 Montlucon Jacques
+162 37 Philippe Auguste
+163 3 Hauptmann Anna
+163 25 Lindy Richard Lucky Morrow Bruno Anne Hauptmann
+163 3 Bruno Anna Hauptmann
+163 14 James A. Morrow Berg Scott Lloyd W. Anne
+163 1 nil
+164 95 C Freedom Sports County Edition Part Desk Orange
+164 22 Duke
+164 95 Notre Andersen Dame
+164 13 Rose Michigan Smith State Bowl
+164 1 Shayne Wasden Auburn
+165 6 Nestle
+165 6 German
+165 6 Switzerland White
+165 14 Flip
+165 6 BOSTON
+166 1 U.S. Australia
+166 4 Werribee
+166 2 Angeles Los Auckland
+166 1 Australian Cairns Sydney
+166 2 Japan English
+167 5 Charlotte Pendragon
+167 12 Antiques
+167 65 Super Bowls Skins
+167 12 Coach Wyche Bowl Bill Sevier Wayne Walsh Super
+167 55 Gibbs
+168 35 Caribbean Community English
+168 71 Source Caribbean Tobago
+168 35 Tobago Barbados
+168 5 Moslem
+168 3 Venezuela Tobago
+169 54 Alaska
+169 3 Soviet Siberian
+169 3 Canada Greenland Alaska
+169 3 Union Copenhagen Soviet
+169 37 Canadian
+170 0 nil
+170 0 nil
+170 0 nil
+170 0 nil
+170 0 nil
+171 26 Botswana
+171 5 Africa Botswana South
+171 38 England York
+171 38 Brazzaville Victorian Namibia Malagasy
+171 5 Botswana
+172 74 Madrid
+172 74 Elliott
+172 41 P. George Shultz
+172 41 Diplomats
+172 13 Bob Beamon Mike Powell
+173 51 Noboru Takeshita
+173 9 Bill Clinton
+173 61 Akihito
+173 61 Roh Tae-woo
+173 51 Akihito Hirohito
+174 29 William Democrat Alton
+174 26 William Democrat Alton
+174 36 Alexander Garber Lee Wilkes Harvey John Booth Oswald Jace Victor
+174 28 William Democrat Alton
+174 89 William Hanna
+175 0 nil
+175 0 nil
+175 0 nil
+175 0 nil
+175 0 nil
+176 4 Hughes Edwin Armstrong
+176 43 Kelley
+176 5 Max Parker Mathews Gary
+176 43 Guglielmo Thomas Alva Edison Marconi
+176 65 Goeken John Piper Cub
+177 86 California
+177 27 Europe
+177 86 Animal
+177 86 August
+177 86 California
+178 93 Boris Yeltsin
+178 79 Ken Hawaii Daniel Democrat Inouye
+178 22 Canada Zhang Text Daily Report Dengyi
+178 79 Masayuki Matsunaga Spark
+178 3 James Arthur Chester Garfield A.
+179 4 California
+179 4 Klinghoffer
+179 43 Grammy
+179 73 Tex Denison
+179 73 Quincy
+180 71 nil
+180 71 nil
+180 74 Regency
+180 60 Picasso Sells Lapin Agile Pablo
+180 74 Antony
+181 55 Siqueiros Alfaro
+181 44 Review Book John Leonard Times
+181 55 Bravo Alvarez
+181 1 Viveros
+181 55 Bravo Alvarez
+182 5 Harris
+182 7 Brain
+182 5 Biden
+182 2 Argentina
+182 5 Biden
+183 2 Putty Silly
+183 47 Democrats
+183 2 Silly Putty Smith Binney
+183 26 Double
+183 2 Smith Drexler Mr. Putty Silly Brad Hodgson
+184 0 nil
+184 0 nil
+184 0 nil
+184 0 nil
+184 0 nil
+185 0 nil
+185 0 nil
+185 0 nil
+185 0 nil
+185 0 nil
+186 46 Darnell Thomas San Jose Jeffrey Wendy Connie Nancy
+186 3 Jose San Susan Michael Smith Leticia Sandra John
+186 5 Jacqueline Milpitas Jose Michael Diane Jerry San Sharon Modesto Gracie
+186 2 Jose Ashby Fleischman San Reza Dudley Sharhrzad Charmon
+186 45 Jose Thomas Rae San Michelle Robert Sandoval Ann
+187 82 Chrysler
+187 1 Mazda
+187 100 Peter Davey
+187 10 Mollar
+187 82 Cadillac Lincoln Toyota
+188 20 nil
+188 20 Wilmington
+188 2 S.C. Diaper
+188 13 nil
+188 34 Jenrette
+189 0 nil
+189 0 nil
+189 0 nil
+189 0 nil
+189 0 nil
+190 17 Hoeveler Beinstock Terry
+190 36 Broadcasting Systems Haworth Turner Security Inc.
+190 74 Johnson Quiet Tom Adv15 Editions Adv16 Weekend First
+190 65 Goldman Kevin Networks Against Network
+190 36 Steve Haworth Turner Security
+191 12 Nicks
+191 2 Salaam Dar
+191 12 Stevie Nicks
+191 6 Booth Gardner
+191 2 Institute Home Gets Permanent
+192 0 nil
+192 0 nil
+192 0 nil
+192 0 nil
+192 0 nil
+193 21 Boston
+193 23 Boston
+193 87 Boston
+193 23 Angeles Chicago Washington Detroit Newark Los York New
+193 87 Boston
+194 3 Madrid
+194 48 Bayonne Spain France
+194 38 Madrid
+194 11 Spain
+194 10 Navarre Spanish France
+195 1 Earl Jones Star Lucas Gabriel Wars James
+195 10 Star Wars Prowse
+195 26 Mr. Vanderslice
+195 10 Frankenstein
+195 16 nil
+196 8 New Massachusetts Hampshire
+196 8 Richmond Boston Va
+196 9 American
+196 71 Semtech
+196 71 Jose San
+197 21 Miami
+197 1 Irish Colorado
+197 2 Irish
+197 1 Irish
+197 2 Cal
+198 0 nil
+198 0 nil
+198 0 nil
+198 0 nil
+198 0 nil
+199 13 San Marcos
+199 11 Lawrenceville Princeton
+199 8 nil
+199 11 New East Jersey Coast
+199 8 California Athletics Southern
+200 13 Children Denver
+200 13 Boston
+200 28 Las
+200 13 Mutual Omaha Angeles Los York New
+200 24 Angeles Los Palmdale
+201 12 Henson
+201 7 Sesame Street Henson
+201 5 Henson
+201 5 Henson
+201 34 Henson
+202 0 nil
+202 0 nil
+202 0 nil
+202 0 nil
+202 0 nil
+203 2 Witwatersrand
+203 6 Clegg
+203 3 Witwatersand
+203 59 Kansas Carthage
+203 74 Panama
+204 0 nil
+204 0 nil
+204 0 nil
+204 0 nil
+204 0 nil
+205 5 Outlaws Books Barnum
+205 94 ARTICLE AN Black Ice Amplifications
+205 1 Rundfunk
+205 30 Rose Operation Devil Sun
+205 90 Poulsen Lee Kevin
+206 7 Liposome
+206 70 New Newsweek York
+206 9 Indianapolis MIDLAND
+206 70 New Indianapolis York
+206 12 Prozac
+207 2 Chelsea
+207 2 Chelsea Husband
+207 12 Springs Hot
+207 12 Georgetown Arkansas
+207 40 Angeles Los Texas
+208 20 nil
+208 2 Scotland
+208 2 nil
+208 3 Scotland
+208 20 Aberdeen
+209 58 Wilson Edmund
+209 23 Hardy Lucretius Macmillan
+209 23 Street Carnaby
+209 44 Raphael Peggy Champlin Pumpelly Adams
+209 58 Hemingway
+210 2 William Gibson
+210 16 Palmer-Stevens Networking Area Local David
+210 29 Cohen Fred
+210 1 William Gibson
+210 2 Wheelwright Geof
+211 77 Sanchez Gonzalo
+211 5 nil
+211 5 nil
+211 43 nil
+211 88 Zamora Bolivian Elects Congress Paz
+212 0 nil
+212 0 nil
+212 0 nil
+212 0 nil
+212 0 nil
+213 14 nil
+213 3 Dickens Charles Municipal Choppelas George
+213 4 Past Christmas
+213 3 Frank Winston Jack Benny
+213 3 Bad Benny Ebenezer Rep Jack
+214 4 Yeager Chuck
+214 1 Pete LeVier Jimmy Crossfield Knight Chuck Yeager Doolittle Scott Tony
+214 52 Hit Baykonur
+214 3 Yeager Chuck
+214 52 Kapustin Yar
+215 78 Edition B Part Metro Desk
+215 1 Freeway Emergencies
+215 78 Homes Caza De Pacific Standard Kathryn Taylor Woodrow Coto Bramalea
+215 1 Edition Metro Desk
+215 78 Diamond Bar Ana Santa
+216 1 Bill Brushy
+216 3 Garrett Ash Upson
+216 5 Release PMs Tues Adv09
+216 4 Claim
+216 5 Cagney
+217 6 Charles Windsor
+217 35 God
+217 35 Lady Thatcher
+217 35 Lords Peel
+217 48 P8661 Organizations Religious
+218 4 New Post Columnist York Nachman
+218 1 New York
+218 2 New Post York Manhattan
+218 1 New Post York
+218 2 Manhattan
+219 3 SCIENCE RESULT ANIMAL
+219 3 Guinea America Peru South
+219 2 Yersinia
+219 1 Yersinia Nonpedigree
+219 2 Baker
+220 55 nil
+220 35 Bethel N.Y.
+220 37 Bethel N.Y.
+220 19 Altamont
+220 55 Tens Photo
+221 22 JOnes Horton Chuck
+221 29 Brown Mr. Magoo
+221 20 Jones Boris Karloff
+221 2 Choppelas
+221 4 Horton
+222 0 nil
+222 0 nil
+222 0 nil
+222 0 nil
+222 0 nil
+223 58 Russ Haverty Adryan
+223 2 Baby Emmett Tar
+223 3 Baby Tar
+223 2 Morrison
+223 3 Miss Morrison
+224 8 Frank Bush George
+224 20 Max Father Dowling Monroe
+224 17 Knots Brown Murphy Landing Shade
+224 20 William Conrad Joe Penny
+224 20 Perry Max Father Dowling Mason Hargrove Matlock Monroe
+225 49 Silverman Matlock
+225 10 Frank Bush George
+225 49 Silverman
+225 9 Max Father Dowling Monroe
+225 9 William Conrad Joe Penny
+226 58 American Haiti
+226 58 nil
+226 27 EU Andean Spanish
+226 58 Refugees Spanish
+226 27 Bolivia Colombia
+227 50 Walton M. Sam Harry
+227 1 Sam Hypermart
+227 4 Cheryl Starks
+227 4 Sam
+227 1 Paul Carter
+228 4 Krauss Michael
+228 1 Lunden Tenth Adv28 Joan Celebrates
+228 1 Lunden
+228 5 nil
+228 4 Joan Charles David Gibson Hartman Lunden
+229 0 nil
+229 0 nil
+229 0 nil
+229 0 nil
+229 0 nil
+230 31 Angeles East Las
+230 55 Angeles Chicago
+230 50 Angeles
+230 55 Angeles
+230 12 Angeles Las
+231 0 nil
+231 0 nil
+231 0 nil
+231 0 nil
+231 0 nil
+232 36 Toronto Northwestern Massachusetts
+232 6 Mass South
+232 6 Africa South
+232 36 Pennsylvania Washington D.C.
+232 6 South African
+233 0 nil
+233 0 nil
+233 0 nil
+233 0 nil
+233 0 nil
+234 96 Eddie Murray
+234 18 Brett
+234 96 McGee Willie
+234 45 Rosen
+234 18 nil
+235 0 nil
+235 0 nil
+235 0 nil
+235 0 nil
+235 0 nil
+236 1 Satanism
+236 3 Churches Canadian
+236 3 Canada Vietnam Washington D.C. Canadian
+236 3 Francisco San Starhawk
+236 1 Satan
+237 65 Japanese European
+237 9 Canada Angola Agriculture
+237 9 Antwerp
+237 91 Schenectady N.Y.
+237 91 Japan
+238 0 nil
+238 0 nil
+238 0 nil
+238 0 nil
+238 0 nil
+239 21 Tonie
+239 5 Brian Stone Oliver Palma De
+239 3 Dunne Metro Didion Ziegler Edition Desk Home Gregory John Joan
+239 4 nil
+239 1 Clyde Penn Arthur Bonnie
+240 5 Zealand
+240 24 Wigan
+240 10 Jim Bolger David
+240 5 Fouroux Jacques
+240 24 Welsh
+241 2 Paddock Palace
+241 7 nil
+241 6 Architects British Pavlovian
+241 3 England
+241 22 Winkfield
+242 92 Michaels Lorne
+242 92 Mike Carvey Ill Wayne Garth Myers Dana
+242 84 Battle Star Cancer Loses
+242 12 Harrelson Court Carvey Peter Rocco Larroquette Woody John Alex Dana
+242 12 Brown Faith Hooks Julie Murphy Julia Ford Jan Kavner Duffy
+243 0 nil
+243 0 nil
+243 0 nil
+243 0 nil
+243 0 nil
+244 7 Garrett Wonder
+244 21 nil
+244 21 Johnny Marks
+244 27 Shafer Keith Whitley
+244 13 Yip Yaphank
+245 32 Hanson
+245 49 Steve Darryl Hannah Roxanne Martin
+245 25 Christ Poland Jesus Larry Magdalene Mary
+245 32 Dale Baltz Kirk Midkiff Blessing Steve Roth Jack
+245 55 Saville
+246 0 nil
+246 0 nil
+246 0 nil
+246 0 nil
+246 0 nil
+247 0 nil
+247 0 nil
+247 0 nil
+247 0 nil
+247 0 nil
+248 14 nil
+248 1 Fanning Mary Wickham
+248 1 Name Gave
+248 2 Mary
+248 4 Revoked License Santa Release Clauses AMs
+249 8 Orange West N.J.
+249 4 Angeles Los Photo Times
+249 6 N.J.
+249 7 Altadena
+249 8 Again
+250 2 Buddha Americans
+250 31 States United
+250 2 India
+250 5 America
+250 31 States United
+251 0 nil
+251 0 nil
+251 0 nil
+251 0 nil
+251 0 nil
+252 77 Growth Association
+252 100 Sharks Mullen Baron Kimble Anderson Marois Chase
+252 100 Sharks
+252 77 Janis
+252 100 Rob Baron Murray Bassen
+253 5 Watsonville
+253 4 Europe
+253 2 Costa County Angeles Los Riverside Mesa
+253 5 PAST
+253 2 Chattanooga Baldwin
+254 0 nil
+254 0 nil
+254 0 nil
+254 0 nil
+254 0 nil
+255 75 Tavoy Thailand Ye Zinba
+255 68 Thai Burmese
+255 94 nil
+255 94 Thailand
+255 94 Thailand Thai Rangoon
+256 1 King Howard Garret Wonder
+256 85 Feinstein
+256 1 Songwriter Chiate Garrett Lloyd Lee
+256 19 Shafer Keith Whitley
+256 11 Christmas
+257 0 nil
+257 0 nil
+257 0 nil
+257 0 nil
+257 0 nil
+258 74 Apple Macintosh
+258 76 Adobe
+258 76 Adobe
+258 77 Apple
+258 80 Works Microsoft
+259 5 Tereshkova Valentina Cosmonaut
+259 22 Ride Sally
+259 67 Ride Sally
+259 83 Ivins Marsha
+259 46 Doi Center Takao Johnson Space
+260 0 nil
+260 0 nil
+260 0 nil
+260 0 nil
+260 0 nil
+261 0 nil
+261 0 nil
+261 0 nil
+261 0 nil
+261 0 nil
+262 1 Houston Millar Chronicle Jeff Bill Hinds
+262 6 Trail Mr. Mark Dodd
+262 1 Carson Johnny
+262 1 Reuben Award
+262 7 Trail Mr. Mark Dodd
+263 7 European
+263 2 Europe
+263 3 British
+263 2 nil
+263 3 Panama
+264 14 Salinger Sinclair Upton Steinbeck Paul John
+264 4 Mark
+264 2 Perry
+264 4 Arthur Mr. Sawyer Clemens Tom
+264 5 Castle Sawyer Michael Tom
+265 87 James Henry
+265 87 Moby Dick Huckleberry Finn
+265 51 Jonsson
+265 68 Julius Fitzgerald Hawthorne Steinbeck Caesar Scott Shakespeare John Nathaniel
+265 51 Five Moby Dick Slaughterhouse
+266 0 nil
+266 0 nil
+266 0 nil
+266 0 nil
+266 0 nil
+267 21 Thomas E. Paz Murray Joseph Octavio
+267 19 William Miller Gorbachev Sharpe Merton Mikhail S. Harry Markowitz
+267 33 Naguib Allais Mahfouz Maurice
+267 45 Paz Octavio
+267 19 Thomas E. Paz Murray Joseph Octavio
+268 24 Cape Horn
+268 78 Master Poe Puppet
+268 10 Annabel Lee
+268 19 Corman Poe Allan Edgar
+268 24 Skog
+269 9 nil
+269 5 nil
+269 9 Maytag
+269 9 nil
+269 1 Maytag Corp.
+270 0 nil
+270 0 nil
+270 0 nil
+270 0 nil
+270 0 nil
+271 3 nil
+271 3 Bonham Dog Zep Black Rock 'n
+271 8 Elvis Presley
+271 2 nil
+271 7 Adv Plant Bonham Robert Release Editions John Weekend
+272 2 nil
+272 23 nil
+272 1 Wilde
+272 2 nil
+272 57 Berth Career Pot Modern Times Stretched Marks 'o Millions Kid
+273 0 nil
+273 0 nil
+273 0 nil
+273 0 nil
+273 0 nil
+274 7 Bruno Richard Hauptmann
+274 11 Lindy Richard Lucky Morrow Bruno Anne Hauptmann
+274 1 Hauptmann Anna
+274 17 Books Hauptmann Johnson
+274 7 nil
+275 19 Butrus Serbs Frost Daily David Report Butrus-Ghali
+275 25 Andrey Kozyrev
+275 33 Giesbert
+275 33 Giesbert
+275 25 Soviet
+276 12 Review Anytime Film Release Keating John Adv00
+276 12 Witt Thomas Junger Steven Haft Tony Seale Paul John
+276 1 Freeman Branagh Christy Kenneth Brown Henry Day-Lewis Daniel V Robin
+276 5 Ron Spike Tom Kovic Vietnam Cruise Woody Robin Williams Allen
+276 2 Valentine Met Harry Shirley Sally Robin Williams
+277 89 Christian
+277 4 nil
+277 3 nil
+277 84 Siemens Czechoslovakia Osram Hungry
+277 60 Livermore
+278 98 Duskin
+278 1 Novak Hut David
+278 98 Higa Chicken Fried Mr. Kentucky
+278 38 Gerry Publisher Claus Durnell Santa
+278 97 Files Court District Against Hut Suit
+279 1 nil
+279 4 Sierra Calif.
+279 7 Sequoia
+279 1 California
+279 6 Sequoia Visalia Fresno Yosemite
+280 64 Santa Women
+280 64 New Mexico
+280 11 Angeles Los Photo Times
+280 64 Rochester
+280 28 Orthopedics
+281 91 Litchville City Valley California
+281 47 Death
+281 98 Elaine
+281 70 Romero
+281 91 North
+282 1 Gilmour Airport Heathrow
+282 3 Chris Waters Had Gilbert
+282 10 Venice Concert Effect Rock Release Grips
+282 10 nil
+282 5 Pop
+283 0 nil
+283 0 nil
+283 0 nil
+283 0 nil
+283 0 nil
+284 0 nil
+284 0 nil
+284 0 nil
+284 0 nil
+284 0 nil
+285 26 Panama U.S.
+285 5 Caribbean
+285 81 Washington Peru
+285 6 Panama
+285 81 Lima
+286 24 Stores Drug P5912
+286 26 Boots
+286 27 Sir Boots Blyth James
+286 24 Kingfisher Low Pricing
+286 24 Pharmaceutical P2834 Preparations
+287 98 Greenspan Alan
+287 45 Khamenei Ayatollah
+287 98 James Baker A. III Treasury
+287 45 Reed
+287 1 Bush
+288 85 Teti Mike Korzeniowski
+288 61 Communities Bill Davidson
+288 33 Bush
+288 33 Tanjug
+288 61 John Davies Carter Tom
+289 20 Peru
+289 3 Peruvian U.S.
+289 4 Lima
+289 20 Peruvian U.S.
+289 2 Peruvian States Lima United
+290 1 nil
+290 1 Negril
+290 4 Kingston
+290 7 Orlando Washington York New
+290 1 nil
+291 20 nil
+291 20 Wilmington
+291 13 nil
+291 2 S.C. Diaper
+291 34 Jenrette
+292 3 S.C. Diaper
+292 3 nil
+292 23 nil
+292 23 Wilmington
+292 3 Cincinnati
+293 39 Challenger
+293 44 Neil Armstrong High Cost Release Logo Apollo Adv02 Aldrin
+293 39 Skylab
+293 7 Bruce Astronaut
+293 7 Leonov Cosmonaut Aleksei
+294 11 Ross
+294 32 Challenger
+294 32 Skylab
+294 32 Sullivan Leetsma David
+294 71 Akers Tom
+295 0 nil
+295 0 nil
+295 0 nil
+295 0 nil
+295 0 nil
+296 0 nil
+296 0 nil
+296 0 nil
+296 0 nil
+296 0 nil
+297 74 Turner Ted Johnson
+297 74 Johnson Quiet Tom Adv15 Editions Adv16 Weekend First
+297 84 Turner Vietnam Ted Television
+297 36 Steve Haworth Turner Security
+297 36 Broadcasting Systems Haworth Turner Security Inc.
+298 76 Kung
+298 76 Le Vine
+298 25 Cavaney
+298 76 Webster Christmas
+298 76 Webster Le Vine
+299 9 BOSTON Boston
+299 8 Boston
+299 34 New York
+299 34 Fisheries
+299 34 BOSTON
+300 0 nil
+300 0 nil
+300 0 nil
+300 0 nil
+300 0 nil
+301 0 nil
+301 0 nil
+301 0 nil
+301 0 nil
+301 0 nil
+302 8 Writethru
+302 5 Legacy
+302 6 Freudian
+302 52 Angeles Los
+302 6 America
+303 27 nil
+303 5 John
+303 2 John
+303 5 Treaty
+303 67 L. Robert Brosio Gutstein
+304 7 Treaty
+304 4 Bjt Honers Edward Brother Kennedy
+304 68 L. Robert Brosio Gutstein
+304 7 John
+304 4 John
+305 14 States United
+305 33 South
+305 10 Teague
+305 10 American
+305 14 Arizona
+306 83 Georgetown Jenrette McLain Warren
+306 20 Seiderman
+306 83 John `Jenrette Jenrette
+306 92 Latin America
+306 20 Welles Kane Orson Metro Citizen Nathan Edition Desk Home
+307 0 nil
+307 0 nil
+307 0 nil
+307 0 nil
+307 0 nil
+308 22 Children Denver
+308 21 Las
+308 63 U.S.
+308 22 Boston
+308 22 Mutual Omaha Angeles Los York New
+309 31 Henson
+309 20 Sesame Street Henson
+309 35 Disney
+309 32 Dick
+309 3 Gonzo Scooter Bear Piggy Kermit Fozzie Miss Henson
+310 35 Jim Scott Henson Kermit
+310 50 Jim Henson
+310 2 Henson
+310 25 Jim Fame Sesame Bjt Got Henson Street
+310 3 A Mickey Jim Walt Part World Mouse Henson Disney
+311 47 B. Cheney Richard Staff
+311 7 nil
+311 2 nil
+311 1 Bush Administration
+311 47 Bush
+312 21 Miami
+312 1 Irish
+312 1 Irish Colorado
+312 3 Irish
+312 3 Cal
+313 0 nil
+313 0 nil
+313 0 nil
+313 0 nil
+313 0 nil
+314 0 nil
+314 0 nil
+314 0 nil
+314 0 nil
+314 0 nil
+315 0 nil
+315 0 nil
+315 0 nil
+315 0 nil
+315 0 nil
+316 33 Tianjin
+316 45 Spanish
+316 33 Britain
+316 33 China
+316 13 East
+317 47 UNITED Lawrenceville KUWAIT STATES IRAQ GEORGE
+317 24 New East Jersey Coast
+317 9 California Athletics Southern
+317 52 New Jersey
+317 9 nil
+318 63 Spot
+318 86 Lexington
+318 70 Photo
+318 34 Louisville
+318 63 Keeneland
+319 49 Northern
+319 59 Keeneland
+319 59 Spot
+319 21 Louisville
+319 49 Photo
+320 2 Wankel
+320 1 Wankel
+320 1 Mazda
+320 1 Wankel
+320 4 Mazda Motor Co.
